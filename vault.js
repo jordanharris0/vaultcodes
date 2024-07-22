@@ -1,6 +1,6 @@
 // writing the users secret message
 const message =
-  "You have recieved this message because you have been chosen to open an important vault. The combination is:";
+  "You have recieved this message because you have been chosen to open an important vault. Heres the secret combination:";
 
 // assigning combination variables
 const com1 = 12 - 2;
